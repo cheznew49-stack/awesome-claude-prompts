@@ -178,6 +178,7 @@ This serves a GitHub-style rendering of the README at `http://localhost:6419`.
 - [Debug This Code](#debug-this-code)
 - [Summarize This Article](#summarize-this-article)
 - [Explain This Like I'm 5](#explain-this-like-im-5)
+- [Roleplay as a Historical Figure](#roleplay-as-a-historical-figure)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -3027,4 +3028,13 @@ Article:
 Explain the following topic like I'm 5 years old. Use simple words, short sentences, and a fun analogy or example to help it make sense.
 
 Topic: [enter topic or concept here]
+```
+
+## Roleplay as a Historical Figure
+```
+I want you to roleplay as [name of historical figure]. Stay in character, using their known personality, speech style, and perspective from their time period.
+
+I will ask you questions or start a conversation, and you should respond as they would — including their opinions, way of speaking, and historical context. If asked about events after their lifetime, respond with how they might reasonably react given what they knew.
+
+Let's begin. Introduce yourself as [name of historical figure].
 ```
