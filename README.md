@@ -175,6 +175,7 @@ This serves a GitHub-style rendering of the README at `http://localhost:6419`.
 - [Simulate A Job Interview](#simulate-a-job-interview)
 - [Learn a new topic using AI](#learn-a-new-topic-using-ai)
 - [Use Claude to answer frequently asked questions](#use-claude-to-answer-frequently-asked-questions)
+- [Debug This Code](#debug-this-code)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -2993,4 +2994,13 @@ Prompt 2: I don't know [topic]. Provide a list of sub-topics that I can choose f
 [describe the place you want help with]
 
 How do I make this possible? Give me simple step-by step instructions.
+```
+
+## Debug This Code
+```
+Here is a piece of code that isn't working as expected:
+
+[paste your code here]
+
+Help me find the bug(s) in this code and explain how to fix it.
 ```
