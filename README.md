@@ -177,6 +177,7 @@ This serves a GitHub-style rendering of the README at `http://localhost:6419`.
 - [Use Claude to answer frequently asked questions](#use-claude-to-answer-frequently-asked-questions)
 - [Debug This Code](#debug-this-code)
 - [Summarize This Article](#summarize-this-article)
+- [Explain This Like I'm 5](#explain-this-like-im-5)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -3019,4 +3020,11 @@ Tone: [e.g. neutral, casual, formal]
 
 Article:
 [paste article text or link here]
+```
+
+## Explain This Like I'm 5
+```
+Explain the following topic like I'm 5 years old. Use simple words, short sentences, and a fun analogy or example to help it make sense.
+
+Topic: [enter topic or concept here]
 ```
