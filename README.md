@@ -17,6 +17,24 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 We hope you find these prompts useful and have fun using Claude!
 
+## Local Setup
+
+This repo is just a curated collection of Markdown prompts, so there's nothing to build or install. To browse and use it locally:
+
+```bash
+git clone https://github.com/yzfly/awesome-claude-prompts.git
+cd awesome-claude-prompts
+```
+
+Then open `README.md` in your editor or Markdown viewer of choice. If you'd rather preview it in a browser with live reload, you can use [grip](https://github.com/joeyespo/grip):
+
+```bash
+pip install grip
+grip README.md
+```
+
+This serves a GitHub-style rendering of the README at `http://localhost:6419`.
+
 ## Claude official prompt resource:
 * Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
