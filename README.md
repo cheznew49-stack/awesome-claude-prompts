@@ -176,6 +176,7 @@ This serves a GitHub-style rendering of the README at `http://localhost:6419`.
 - [Learn a new topic using AI](#learn-a-new-topic-using-ai)
 - [Use Claude to answer frequently asked questions](#use-claude-to-answer-frequently-asked-questions)
 - [Debug This Code](#debug-this-code)
+- [Summarize This Article](#summarize-this-article)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -3003,4 +3004,19 @@ Here is a piece of code that isn't working as expected:
 [paste your code here]
 
 Help me find the bug(s) in this code and explain how to fix it.
+```
+
+## Summarize This Article
+```
+Please summarize the following article in [number] sentences/bullet points.
+
+Include:
+- The main topic and purpose of the article
+- Key facts, findings, or arguments presented
+- Any conclusions or recommendations made
+
+Tone: [e.g. neutral, casual, formal]
+
+Article:
+[paste article text or link here]
 ```
