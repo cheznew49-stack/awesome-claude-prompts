@@ -182,6 +182,7 @@ This serves a GitHub-style rendering of the README at `http://localhost:6419`.
 - [Write a Cover Letter](#write-a-cover-letter)
 - [Roast My Resume](#roast-my-resume)
 - [Write a LinkedIn Post](#write-a-linkedin-post)
+- [Write a Product Description](#write-a-product-description)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -3081,4 +3082,20 @@ Tone: [e.g. professional, personal, inspiring, casual]
 Length: [e.g. short and punchy, 200-300 words]
 
 Include a strong hook in the first line and end with a call-to-action or question to encourage engagement.
+```
+
+## Write a Product Description
+```
+Write a compelling product description for the following product.
+
+Product name: [product name]
+Key features: [list main features/specs]
+Target audience: [who is this for]
+Main benefit/problem it solves: [what value it provides]
+
+Tone: [e.g. persuasive, playful, luxury, minimal]
+Length: [e.g. 100-150 words]
+Platform: [e.g. Amazon listing, Shopify store, ad copy]
+
+Highlight the benefits over the features and end with a reason to buy now.
 ```
