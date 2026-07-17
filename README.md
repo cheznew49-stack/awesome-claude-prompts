@@ -179,6 +179,7 @@ This serves a GitHub-style rendering of the README at `http://localhost:6419`.
 - [Summarize This Article](#summarize-this-article)
 - [Explain This Like I'm 5](#explain-this-like-im-5)
 - [Roleplay as a Historical Figure](#roleplay-as-a-historical-figure)
+- [Write a Cover Letter](#write-a-cover-letter)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -3037,4 +3038,21 @@ I want you to roleplay as [name of historical figure]. Stay in character, using 
 I will ask you questions or start a conversation, and you should respond as they would — including their opinions, way of speaking, and historical context. If asked about events after their lifetime, respond with how they might reasonably react given what they knew.
 
 Let's begin. Introduce yourself as [name of historical figure].
+```
+
+## Write a Cover Letter
+```
+Help me write a compelling cover letter for the following job application.
+
+Job title: [job title]
+Company: [company name]
+Job description: [paste job description or key requirements]
+
+About me:
+- Relevant experience: [briefly describe your relevant experience]
+- Key skills: [list key skills]
+- Why I'm interested in this role/company: [your motivation]
+
+Tone: [e.g. professional, enthusiastic, concise]
+Length: [e.g. under 300 words]
 ```
