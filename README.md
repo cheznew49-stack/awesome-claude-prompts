@@ -180,6 +180,7 @@ This serves a GitHub-style rendering of the README at `http://localhost:6419`.
 - [Explain This Like I'm 5](#explain-this-like-im-5)
 - [Roleplay as a Historical Figure](#roleplay-as-a-historical-figure)
 - [Write a Cover Letter](#write-a-cover-letter)
+- [Roast My Resume](#roast-my-resume)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -3055,4 +3056,14 @@ About me:
 
 Tone: [e.g. professional, enthusiastic, concise]
 Length: [e.g. under 300 words]
+```
+
+## Roast My Resume
+```
+Roast my resume. Be brutally honest and point out weaknesses, clichés, vague language, formatting issues, or anything that would make a recruiter skip it.
+
+After roasting it, give me specific, actionable suggestions to fix each issue.
+
+Resume:
+[paste your resume text here]
 ```
