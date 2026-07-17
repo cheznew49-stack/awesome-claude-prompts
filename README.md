@@ -3009,7 +3009,11 @@ Here is a piece of code that isn't working as expected:
 
 [paste your code here]
 
-Help me find the bug(s) in this code and explain how to fix it.
+Language/Framework: [e.g. Python, React]
+Expected behavior: [what it should do]
+Actual behavior / error message: [what happens instead]
+
+Help me find the bug(s), explain the root cause, and give me the corrected code.
 ```
 
 ## Summarize This Article
