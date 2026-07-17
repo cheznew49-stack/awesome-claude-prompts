@@ -181,6 +181,7 @@ This serves a GitHub-style rendering of the README at `http://localhost:6419`.
 - [Roleplay as a Historical Figure](#roleplay-as-a-historical-figure)
 - [Write a Cover Letter](#write-a-cover-letter)
 - [Roast My Resume](#roast-my-resume)
+- [Write a LinkedIn Post](#write-a-linkedin-post)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -3066,4 +3067,18 @@ After roasting it, give me specific, actionable suggestions to fix each issue.
 
 Resume:
 [paste your resume text here]
+```
+
+## Write a LinkedIn Post
+```
+Help me write a LinkedIn post about the following topic.
+
+Topic: [what you want to post about]
+Key points to include: [main points, achievements, or story beats]
+Goal: [e.g. share an insight, celebrate a milestone, promote something]
+
+Tone: [e.g. professional, personal, inspiring, casual]
+Length: [e.g. short and punchy, 200-300 words]
+
+Include a strong hook in the first line and end with a call-to-action or question to encourage engagement.
 ```
