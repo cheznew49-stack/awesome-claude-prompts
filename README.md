@@ -44,6 +44,7 @@ This serves a GitHub-style rendering of the README at `http://localhost:6419`.
 
 ## Contents
 - [Claude Code Coding Prompt](claudecode/LinusTorvalds.md)
+- [Smart Dev Task Template](claudecode/SmartDev.md)
 - [Summarize this PDF document (official example)](#summarize-this-pdf-document-official-example)
 - [Explain Python Code (official example)](#explain-python-code-official-example)
 - [Practice Spanish Vocab (official example)](#practice-spanish-vocab-official-example)
@@ -1604,6 +1605,8 @@ Act as an expert editor with several years of experience. Please provide a bulle
 ## Smart Dev
 
 from: https://twitter.com/NickADobos/status/1682789622315896832?s=20
+
+Also available as a standalone, annotated task template: [Smart Dev Task Template](claudecode/SmartDev.md)
 
 ```
 🧠Smart Dev Task:
